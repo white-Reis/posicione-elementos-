@@ -1,0 +1,13 @@
+.cabecalhoPrincipal .container {
+    display: flex;
+   justify-content: space-between;
+  }
+  .rodapePrincipal-patrocinadores .container{
+    display: flex;
+    justify-content: space-between;
+  }
+  .rodapePrincipal-patrocinadores .container .rodapePrincipal-patrocinadores-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
